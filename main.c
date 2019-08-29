@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("Hello, world!");
+	printf("Hello, LSTME 2019!\n");
 
 	return 0;
 }
