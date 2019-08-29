@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int a = 4;
+	int a = 422;
 	printf("Hello, LSTME 2019!\n");
 	printf("mame sa tu dobre\n");
 
